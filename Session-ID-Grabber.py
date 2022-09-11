@@ -1,5 +1,4 @@
 import requests, os, stdiomask
-from colorama import Fore
 from uuid import uuid4
 os.system('title  ')
 os.system('cls||clear')
